@@ -60,16 +60,4 @@ Ensure you have the Kaggle API key configured.
 3.  Run each cell in the provided notebook sequentially to perform data
     collection, preprocessing, model training, and evaluation.
 
-## Contributing
 
-Contributions to the project are welcome. Please fork the repository,
-make changes, and submit a pull request.
-
-## Credits
-
-Data provided by MongoDB and Kaggle dataset by Enashed.
-
-## License
-
-Include information about the project's license here, specifying how it
-can be used by others.
